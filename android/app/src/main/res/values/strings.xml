@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phonics Pond Tutor</string>
+    <string name="app_title">PHONICS POND</string>
+    <string name="splash_tagline">SOUNDS AND FIRST WORDS</string>
+    <string name="loading">LOADING</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="hear_it">HEAR IT</string>
+    <string name="hint">HINT</string>
+    <string name="clear">CLEAR</string>
+    <string name="keep_playing">KEEP PLAYING</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="sound_hop_title">SOUND HOP</string>
+    <string name="blend_title">BLEND BRIDGE</string>
+    <string name="trace_title">LETTER TRACE</string>
+    <string name="blend">BLEND BRIDGE</string>
+    <string name="trace">LETTER TRACE</string>
+    <string name="stickers">STICKERS</string>
+    <string name="letters">LETTERS</string>
+    <string name="words">WORDS</string>
+    <string name="grown_ups">GROWN UPS</string>
+    <string name="progress">PROGRESS</string>
+    <string name="sound">SOUND</string>
+
+    <string name="ready_prompt">TAP A LILY PAD TO BEGIN</string>
+    <string name="trace_prompt">TRACE THE LETTER WITH ONE FINGER</string>
+    <string name="sticker_prompt">EVERY ROUND ADDS A WATER LILY</string>
+    <string name="nice_reading">NICE READING</string>
+    <string name="keep_going">ONE MORE POND ROUND</string>
+    <string name="sticker_earned">STICKER EARNED</string>
+    <string name="progress_empty">PLAY A ROUND TO FILL THE POND</string>
+
+    <string name="blend_description">Sweep the sounds</string>
+    <string name="trace_description">Draw the letter</string>
+    <string name="stickers_description">Sticker lily</string>
+    <string name="words_description">Read a word</string>
+    <string name="grown_ups_description">Progress and sound</string>
+
+    <string name="for_grown_ups">FOR GROWN UPS</string>
+    <string name="gate_question">WHAT IS 7 PLUS 6</string>
+    <string name="setting_sound_cues">Sound cues</string>
+    <string name="setting_auto_hints">Automatic hints</string>
+    <string name="setting_on">on</string>
+    <string name="setting_off">off</string>
+    <string name="letter_mastered">mastered</string>
+    <string name="letter_learning">still learning</string>
+    <string name="reset_message">This clears every letter, word and sticker collected so far.</string>
+
+    <string name="pause_title">A SHORT REST</string>
+    <string name="pause_message">The pond waits for you. Keep playing or hop back to the menu.</string>
+
+    <string name="phoneme_format">/%1$s/</string>
+    <string name="round_progress">%1$d / %2$d</string>
+    <string name="number_format">%1$d</string>
+    <string name="sticker_tally">%1$d / %2$d</string>
+
+    <string name="logo_description">Phonics Pond emblem</string>
+    <string name="frog_description">Friendly frog tutor</string>
+    <string name="home_description">Back to the pond</string>
+    <string name="pause_description">Pause the activity</string>
+    <string name="cue_description">The sound is %1$s</string>
+    <string name="blend_cue_description">Blend the word %1$s</string>
+    <string name="pad_description">Lily pad with the letter %1$s</string>
+    <string name="pad_state_idle">not answered</string>
+    <string name="pad_state_hinted">hinted</string>
+    <string name="pad_state_correct">correct</string>
+    <string name="word_picture_description">Picture for the word %1$s</string>
+    <string name="sticker_description">Water lily sticker collected</string>
+    <string name="sticker_empty_description">Sticker not collected yet</string>
+    <string name="stickers_count_description">%1$d stickers collected</string>
+    <string name="trace_board_description">Tracing board for the letter %1$s</string>
+</resources>
